@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CatPal/static/css/main.1bba440d.css",
+    "main.js": "/CatPal/static/js/main.6680d119.js",
+    "static/js/453.fb11c431.chunk.js": "/CatPal/static/js/453.fb11c431.chunk.js",
+    "static/media/Cat.woff": "/CatPal/static/media/Cat.7eddb77f94528dbcd0b8.woff",
+    "index.html": "/CatPal/index.html",
+    "main.1bba440d.css.map": "/CatPal/static/css/main.1bba440d.css.map",
+    "main.6680d119.js.map": "/CatPal/static/js/main.6680d119.js.map",
+    "453.fb11c431.chunk.js.map": "/CatPal/static/js/453.fb11c431.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bba440d.css",
+    "static/js/main.6680d119.js"
+  ]
+}
